@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Asish Shaji Thomas</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asishshaji&label=Profile%20views&color=0e75b6&style=flat" alt="asishshaji" /> </p>
 
-- 📝 I regulary write articles on [https://medium.com/@asishshaji](https://medium.com/@asishshaji)
+- 📝 I write articles on [https://medium.com/@asishshaji](https://medium.com/@asishshaji)
 
-- 📫 How to reach me **asishshajithomas@gmail.com**
+- 📫 Reach me at **asishshajithomas@gmail.com**
 
 
 
