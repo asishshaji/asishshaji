@@ -17,6 +17,11 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MediChain — POC](https://medium.com/@asishshaji/medichain-poc-179931c87347?source=rss-4b50d1b29c49------2)
+- [Supply chain for paper valuation](https://dev.to/asishshajithomas/supply-chain-for-paper-valuation-50lp)
+- [D-valuation for KTU](https://medium.com/@asishshaji/d-valuation-for-ktu-a13813e6efb2?source=rss-4b50d1b29c49------2)
+- [How I “hacked” into Etlab.](https://medium.com/@asishshaji/how-i-hacked-into-etlab-d91c26bf9cc1?source=rss-4b50d1b29c49------2)
+- [How we got into their google drive.](https://medium.com/nivata-infosec/how-we-got-into-their-google-drive-d5a809defb0?source=rss-4b50d1b29c49------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
